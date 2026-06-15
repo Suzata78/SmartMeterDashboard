@@ -82,7 +82,8 @@ Measures service-level agreement compliance and operational performance metrics.
 
 Project Screenshots
 
----
+<img width="765" height="425" alt="Screenshot 2026-06-15 115945" src="https://github.com/user-attachments/assets/b165acb0-13ee-4aa2-837e-162d957abe9a" />
+
 
 
 
